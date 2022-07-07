@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Natalène
+
+- 🌱 I’m currently learning in a developper web formation and it's awesome !!!
+- 😃 I'm learning HTML, CSS, PHP, JavaScript, SASS, Vue.js, Wordpress...
+- 🔭 I’m currently working on a vue.js and wordpress project with a great team
+- 📫 How to reach me: https://www.linkedin.com/in/natalene-dubois/
+
+Feel free to contact me, to talk about working opportunities or else !
+See you !👋
 <!--
 **Natalene35/Natalene35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
