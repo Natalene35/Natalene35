@@ -2,9 +2,9 @@
 
 I'm Natalène
 
-- 🌱 I’m currently learning in a developper web formation and it's awesome !!!
+- 🌱 I just finish a developper web formation and it was awesome !!!
 - 😃 I'm learning HTML, CSS, PHP, JavaScript, SASS, Vue.js, Wordpress...
-- 🔭 I’m currently working on a vue.js and wordpress project with a great team
+- 🔭 I’m currently looking for a traineeship, don't hesitate ! 
 - 📫 How to reach me: https://www.linkedin.com/in/natalene-dubois/
 
 Feel free to contact me, to talk about working opportunities or else !
