@@ -3,8 +3,7 @@
 I'm Natalène
 
 - 🌱 I just finish a developper web formation and it was awesome !!!
-- 😃 I'm learning HTML, CSS, PHP, JavaScript, SASS, Vue.js, Wordpress...
-- 🔭 I’m currently looking for a traineeship, don't hesitate ! 
+- 😃 I'm learning HTML, CSS, PHP, JavaScript, SASS, Vue.js, Wordpress, Java...
 - 📫 How to reach me: https://www.linkedin.com/in/natalene-dubois/
 
 Feel free to contact me, to talk about working opportunities or else !
